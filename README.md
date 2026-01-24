@@ -16,3 +16,21 @@ El git clone copia un repositorio remoto al ordenador local. Hacemos clone al fo
 git clone https://github.com/bibidoradom/p1-fork
 ```
 <img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/e0782110-8b82-47a2-9748-71f3835cd7c5" />
+
+## Git Status
+
+Como su nombre indica, git status nos sirve para ver el estado actual del repositorio. Podemos ver que archivos has cambiado pero todavía no has añadido al commit, los archivos que sí que has añadido, los archivos que existen pero git no sigue todavia (Untracked files) o si todo está limpio y no hay cambios pendientes. En este caso, todavía no hemos cambiado nada por lo que al hacer el git status obtenemos lo siguiente:
+```
+git status
+```
+<img width="500" height="90" alt="image" src="https://github.com/user-attachments/assets/e202a460-6680-4267-9fff-b9de77a5bcc6" />
+
+Para probar el status major, creamos un archivo.html en el que escribimos algo. Volvemos a probar el git status:
+
+<img width="500" height="120" alt="image" src="https://github.com/user-attachments/assets/a4e8bf75-f0b4-41a8-99f7-a46c9bc70bf0" />
+
+Vemos como nos dice q no hay nada para hacer commit pero que sí que hay archivos que no están siendo rastreados que podríamos añadir al commit.
+
+
+
+
