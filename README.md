@@ -7,20 +7,12 @@ Para poder probar los diferentes comandos de git nos creamos un Codespace del re
 
 <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/f015dcf2-00e0-4796-acf3-524708aacfa6" />
 
+Aplicamos los siguientes comandos:
 
-## ¿Como probar en la nube?
+## Git Clone
 
-[Github-Codespaces](https://github.com/features/codespaces)
-
-## Comandos git básicos
-
+El git clone copia un repositorio remoto al ordenador local. Hacemos clone al fork anterior para traerlo desde la nube GitHub a nuestro Codespace y así poder trabajar con él en tu propio entorno, de manera local.
 ```
-git clone https://github.com/gitt-3-pat/p1
-git status
-git add .
-git commit -m "TU MENSAJE"
-git push
-
-git checkout -b feature/1
-git checkout main
-``
+git clone https://github.com/bibidoradom/p1-fork
+```
+<img width="425" height="47" alt="image" src="https://github.com/user-attachments/assets/e0782110-8b82-47a2-9748-71f3835cd7c5" />
