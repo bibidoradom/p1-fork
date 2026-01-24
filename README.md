@@ -5,7 +5,7 @@ Para comenzar la práctica hemos hecho un fork del repositorio p1. Al hacer un f
 
 Para poder probar los diferentes comandos de git nos creamos un Codespace del repositorio. Además, nos creamos un directorio pract1 para trabajar en él.
 
-<img width="325" height="53" alt="image" src="https://github.com/user-attachments/assets/f015dcf2-00e0-4796-acf3-524708aacfa6" />
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/f015dcf2-00e0-4796-acf3-524708aacfa6" />
 
 
 ## ¿Como probar en la nube?
