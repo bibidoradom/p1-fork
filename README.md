@@ -15,4 +15,4 @@ El git clone copia un repositorio remoto al ordenador local. Hacemos clone al fo
 ```
 git clone https://github.com/bibidoradom/p1-fork
 ```
-<img width="425" height="47" alt="image" src="https://github.com/user-attachments/assets/e0782110-8b82-47a2-9748-71f3835cd7c5" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/e0782110-8b82-47a2-9748-71f3835cd7c5" />
