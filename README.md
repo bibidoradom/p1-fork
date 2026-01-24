@@ -38,7 +38,8 @@ El git add sirve para seleccionar que cambios son los que vas a mandar en el pr�
 git add .
 git status
 ```
-<img width="400" height="110" alt="image" src="https://github.com/user-attachments/assets/26dc661a-07ce-4188-9042-46a2d9688eeb" />
+<img width="400" height="80" alt="image" src="https://github.com/user-attachments/assets/bbad7187-a813-4477-8968-a8c9639f3b56" />
+
 
 Haciendo el status otra vez observamos que el archive que estaba antes Untracked ahora sí que está preparado para el commit.
 
