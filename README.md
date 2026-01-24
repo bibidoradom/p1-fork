@@ -1,6 +1,12 @@
 # Práctica 1
+### Explicación de comandos de git
 
-Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
+Para comenzar la práctica hemos hecho un fork del repositorio p1. Al hacer un fork nos estamos haciendo una copia de un repositorio para trabajar sobre él sin afectar al original. Esta copia estará ubicada en nuestra nube de GitHub.
+
+Para poder probar los diferentes comandos de git nos creamos un Codespace del repositorio. Además, nos creamos un directorio pract1 para trabajar en él.
+
+<img width="325" height="53" alt="image" src="https://github.com/user-attachments/assets/f015dcf2-00e0-4796-acf3-524708aacfa6" />
+
 
 ## ¿Como probar en la nube?
 
@@ -17,8 +23,4 @@ git push
 
 git checkout -b feature/1
 git checkout main
-```
-
-## ¿Cómo escribir un README.md con formato?
-
-[Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+``
